@@ -1,6 +1,6 @@
 # Import community modules.
 import json
-
+age=29
 # Get App configuration.
 def app_conf():
   file = open('config/app.conf','r')
